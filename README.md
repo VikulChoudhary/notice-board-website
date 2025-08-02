@@ -1,5 +1,4 @@
 # notice-board-website
-notice website which can be used for events and announcements
 🗞️ Local Community Hub – Community Notice Board
 A responsive and dynamic web application designed to serve as a digital notice board for local communities. Built using HTML, Tailwind CSS, and vanilla JavaScript, this platform allows admins to post announcements, events, and important contact information for residents.
 
